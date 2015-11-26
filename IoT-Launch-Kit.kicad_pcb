@@ -360,7 +360,7 @@
     )
   )
 
-  (module IoT-Starter-Kit:ESP-12E (layer F.Cu) (tedit 56563ED7) (tstamp 564F685A)
+  (module IoT-Launch-Kit:ESP-12E (layer F.Cu) (tedit 56563ED7) (tstamp 564F685A)
     (at 153.67 91.948 270)
     (path /564CB6E9)
     (attr smd)
@@ -634,7 +634,7 @@
     )
   )
 
-  (module IoT-Starter-Kit:LED-RGB-5050 (layer F.Cu) (tedit 565435EA) (tstamp 56525156)
+  (module IoT-Launch-Kit:LED-RGB-5050 (layer F.Cu) (tedit 565435EA) (tstamp 56525156)
     (at 153.924 110.998 90)
     (descr "<H3>5050 SMD RGB LED</h3>")
     (path /56527564)
@@ -857,7 +857,7 @@
     )
   )
 
-  (module IoT-Starter-Kit:SpaceshipLogo (layer B.Cu) (tedit 56564B2B) (tstamp 5656E8A7)
+  (module IoT-Launch-Kit:SpaceshipLogo (layer B.Cu) (tedit 56564B2B) (tstamp 5656E8A7)
     (at 153.924 115.062 180)
     (fp_text reference SpaceshipLogo (at 0 13.048124 180) (layer B.SilkS) hide
       (effects (font (thickness 0.3048)) (justify mirror))

@@ -1,4 +1,4 @@
-update=Tuesday, 24 November 2015 10:27:09
+update=Thursday, 26 November 2015 12:15:28
 version=1
 last_client=kicad
 [cvpcb]
@@ -8,6 +8,26 @@ NetIExt=net
 EquName1=devcms
 [general]
 version=1
+[pcbnew]
+version=1
+PageLayoutDescrFile=
+LastNetListRead=IoT-STarter-Kit.net
+UseCmpFile=0
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=1.79832
+PadSizeV=1.39954
+PcbTextSizeV=1.5
+PcbTextSizeH=1.5
+PcbTextThickness=0.3
+ModuleTextSizeV=1
+ModuleTextSizeH=1
+ModuleTextSizeThickness=0.15
+SolderMaskClearance=0
+SolderMaskMinWidth=0
+DrawSegmentWidth=0.2
+BoardOutlineThickness=0.09999999999999999
+ModuleOutlineThickness=0.15
 [eeschema]
 version=1
 LibDir=lib
@@ -42,24 +62,3 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=lib/IoT-Starter-Kit
-[pcbnew]
-version=1
-PageLayoutDescrFile=
-LastNetListRead=IoT-STarter-Kit.net
-UseCmpFile=0
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=1.79832
-PadSizeV=1.39954
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.09999999999999999
-ModuleOutlineThickness=0.15
