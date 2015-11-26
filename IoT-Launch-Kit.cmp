@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-16 BZR 5324)-product   date = Thursday, 26 November 2015 11:51:33
+
+BeginCmp
+TimeStamp = /564CA5FB;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CA5B9;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CAF2B;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CAEDD;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CE0D6;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /56527564;
+Reference = D1;
+ValeurCmp = LED_RGB;
+IdModule  = IoT-Launch-Kit:LED-RGB-5050;
+EndCmp
+
+BeginCmp
+TimeStamp = /5656D556;
+Reference = P1;
+ValeurCmp = CONN_01X09;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /5656D968;
+Reference = P2;
+ValeurCmp = CONN_01X09;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CEF3D;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CE645;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CF250;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CF494;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56527AF4;
+Reference = R5;
+ValeurCmp = 300R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56527B71;
+Reference = R6;
+ValeurCmp = 300R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56527BB0;
+Reference = R7;
+ValeurCmp = 300R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CA583;
+Reference = U1;
+ValeurCmp = LD1117S33CTR;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CABA0;
+Reference = U2;
+ValeurCmp = CH340G;
+IdModule  = SMD_Packages:SO-16-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CB6E9;
+Reference = U3;
+ValeurCmp = ESP-12E;
+IdModule  = IoT-Launch-Kit:ESP-12E;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CD8C0;
+Reference = U4;
+ValeurCmp = USB-A-PLUG;
+IdModule  = Connect:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /564CADE4;
+Reference = X1;
+ValeurCmp = 12MHz;
+IdModule  = Crystals:Crystal_HC49-SD_SMD;
+EndCmp
+
+EndListe
