@@ -4,3 +4,4 @@
 *.bck
 *.kicad_pcb-bak
 output/*
+.DS_Store

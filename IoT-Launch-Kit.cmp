@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-12-16 BZR 5324)-product   date = Thursday, 26 November 2015 11:51:33
+Cmp-Mod V01 Created by Cvpcb (2014-12-16 BZR 5324)-product   date = Thursday, 26 November 2015 14:38:51
 
 BeginCmp
 TimeStamp = /564CA5FB;
@@ -130,7 +130,7 @@ BeginCmp
 TimeStamp = /564CD8C0;
 Reference = U4;
 ValeurCmp = USB-A-PLUG;
-IdModule  = Connect:USB_A;
+IdModule  = IoT-Launch-Kit:USB_A;
 EndCmp
 
 BeginCmp
